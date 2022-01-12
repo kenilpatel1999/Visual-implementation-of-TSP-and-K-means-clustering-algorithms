@@ -9,10 +9,9 @@ import java.awt.event.ActionListener;
 import javax.swing.*;
 
 /**
- * Assignment 04.Connecting the Dots, CSE 564
- * Professor: Javier Gonzalez-Sanchez
+ * Title : Visual Implementation of TSP and Clustering Algorithms (VITCA)
  *
- * @author Kenil Vipulkumar Patel (kpatel99@asu.edu)
+ * @author Kenil Vipulkumar Patel (kenilpatel500@gmail.com)
  */
 public class Main extends JFrame {
 	String textMsg = "Create City";
